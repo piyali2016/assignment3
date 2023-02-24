@@ -1,0 +1,38 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "React Js",
+      "Description": "React JS Certification Training Course",
+      "img": "../../images/react.jpg"
+    },
+    {
+      "id": 2,
+      "title": "DevOps Certification",
+      "Description": "DevOps Certification Training Course",
+      "img": "../../images/devops.png"
+    },
+    {
+      "id": 3,
+      "title": "Microsoft Power BI",
+      "Description": "Microsoft Power BI Certification Training Course",
+      "img": "../../images/power.webp"
+    },
+    {
+      "id": 4,
+      "title": "ChatGPT Complete Course",
+      "Description": "ChatGPT Complete Course: Beginners to Advanced",
+      "img": "../../images/chatgpt.jfif"
+    }
+  ],
+  "enquires": [
+    {
+      "id": 1675790682956,
+      "coourseId": 1,
+      "name": "Piyali Saha",
+      "email": "piyali.saha1@tcs.com",
+      "comment": "Nice",
+      "courseName": "React"
+    }
+  ]
+}
